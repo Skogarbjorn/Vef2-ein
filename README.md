@@ -26,7 +26,7 @@ Vika 13: Kynning
 
 ## Matskvarði
 
-30% Uppsetning á RESTful virkni
-40% Notkun á GSAP
-15% Uppsetning á framenda
+30% Uppsetning á RESTful virkni  
+40% Notkun á GSAP  
+15% Uppsetning á framenda  
 15% Uppsetning á verkefni í hýsingu
