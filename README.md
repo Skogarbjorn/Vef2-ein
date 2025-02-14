@@ -15,13 +15,13 @@ Sjá .pdf skjal að ofan
 
 ## Verkplan
 
-Vika 6: Afla upplýsinga og ákveða hvernig verkefnið mun vera\\
-Vika 7: Byrja að setja upp vefinn og útfæra REST virkni\\
-Vika 8: Útfæra framenda og GSAP og byrja að nota það\\
-Vika 9: Útfæra flókna virkni á GSAP\\
-Vika 10: Hýsa á CI/CD hýsingu\\
-Vika 11: Klára skýrslu\\
-Vika 12: Undirbúa kynningu\\
+Vika 6: Afla upplýsinga og ákveða hvernig verkefnið mun vera  
+Vika 7: Byrja að setja upp vefinn og útfæra REST virkni  
+Vika 8: Útfæra framenda og GSAP og byrja að nota það  
+Vika 9: Útfæra flókna virkni á GSAP  
+Vika 10: Hýsa á CI/CD hýsingu  
+Vika 11: Klára skýrslu  
+Vika 12: Undirbúa kynningu  
 Vika 13: Kynning
 
 ## Matskvarði
